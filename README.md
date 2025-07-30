@@ -32,6 +32,7 @@ El proyecto está organizado de la siguiente manera:
 
 ***(Opcional)***:  En caso de no tener las librerias necesarias instaladas, cree un entorno virtual escribiendo el siguiente comando en el terminal:
 
+###### *(Asegurese de estar posicionado en la carpeta deonde se encuentra app.py)*
 > `python -m venv .venv`
 
 Una vez creado el entorno, active el mismo ejecutando el script de activación, comunmente suele ser:
